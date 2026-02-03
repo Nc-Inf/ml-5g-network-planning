@@ -1,0 +1,14 @@
+{
+  "area_m": 2000.0,
+  "grid_step_m": 40.0,
+  "n_users": 400,
+  "n_bs": 6,
+  "freq_hz": 3500000000.0,
+  "tx_dbm": 46.0,
+  "thr_dbm": -90.0,
+  "coverage_scores": {
+    "Random": 1.0,
+    "Grid": 1.0,
+    "KMeans": 1.0
+  }
+}
